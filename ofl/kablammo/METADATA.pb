@@ -27,3 +27,4 @@ source {
   repository_url: "https://github.com/Vectro-Type-Foundry/kablammo"
   commit: "9f1a9275f8fe94bde6fdd76f0f36e858fb37a363"
 }
+minisite_url: "https://fonts.withgoogle.com/kablammo"
